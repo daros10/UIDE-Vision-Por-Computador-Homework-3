@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ### Entregables
 
 > [!NOTE]
-> Los entregables en format *ipynb* y *pdf* se encuentra alojados en cada carpeta disposable en la raiz del proyecto
+> Los entregables en formato *ipynb y pdf* están disponibles en las carpetas ubicadas en la raíz del proyecto.
 > 
 > *1-Draw_Bounding_Box.ipynb*
 > 
