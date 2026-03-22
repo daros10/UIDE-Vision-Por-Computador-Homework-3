@@ -16,10 +16,12 @@ pip install -r requirements.txt
 ### Entregables
 
 > [!NOTE]
-> Se adjunta los entregables en la raíz del proyecto en formato *ipynb* y *pdf*
+> Los entregables en format *ipynb* y *pdf* se encuentra alojados en cada carpeta disposable en la raiz del proyecto
 > 
-> *main.ipynb*
+> *1-Draw_Bounding_Box.ipynb*
 > 
-> *main.pdf*
+> *1-Draw_Bounding_Box.pdf*
 > 
-> *streamlit_app.py*
+> *2_Real_Time_Object_Detection_With_YOLO.ipynb*
+> 
+> *2_Real_Time_Object_Detection_With_YOLO.pdf*
