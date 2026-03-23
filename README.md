@@ -25,3 +25,7 @@ pip install -r requirements.txt
 > *2_Real_Time_Object_Detection_With_YOLO.ipynb*
 > 
 > *2_Real_Time_Object_Detection_With_YOLO.pdf*
+> 
+> *3_YOLO_Custom_Model.ipynb*
+> 
+> *3_YOLO_Custom_Model.ipynb.pdf*
