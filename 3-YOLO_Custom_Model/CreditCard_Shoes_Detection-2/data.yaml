@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['credit-card', 'shoes']
+
+roboflow:
+  workspace: darios-workspace-hdhng
+  project: creditcard_shoes_detection
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/darios-workspace-hdhng/creditcard_shoes_detection/dataset/2
